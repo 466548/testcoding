@@ -9,6 +9,6 @@ html {
 body {
   background: #151515 url("../img/back.jpg") no-repeat fixed left bottom;
   background-size: cover;
-  color: #FFF;
+  color: #fff;
   text-align: center;
-  font-family: 'Courier New', Courier, monospace, Meiryo; }
+  font-family: "Courier New", Courier, monospace, Meiryo; }
