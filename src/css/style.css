@@ -1,1 +1,14 @@
-@import url("_main.scss");
+html {
+  font-size: 62.5%; }
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+body {
+  background: #151515 url("../img/back.jpg") no-repeat fixed left bottom;
+  background-size: cover;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace, Meiryo; }
